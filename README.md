@@ -2,7 +2,7 @@
 
 A web-based tool to visualize how various sorting algorithms work. This project helps in understanding the logic and the efficiency of each sorting algorithm by visually looking at each step and swap visually.
 
-**[Live Demo Link]()**
+**You can access it here: (https://shonithshaik.github.io/Sorting-Visualizer/)**
 
 ---
 
