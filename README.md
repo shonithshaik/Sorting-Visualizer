@@ -6,7 +6,7 @@ A web-based tool to visualize how various sorting algorithms work. This project 
 
 ---
 
-## 🛠 Features
+## Features
 * **Real-time Visualization:** Visualize and compare different sorting methods by watching every step and swap in real time.
 * **Multiple Algorithms:** Implements classic/most common sorthing methods.
 
