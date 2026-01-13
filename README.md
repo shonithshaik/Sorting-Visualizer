@@ -23,7 +23,7 @@ Some of the algorithms implemented are:
 
 | Algorithm | Best Time Complexity | Average Time Complexity | Worst Time Complexity | Space Complexity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Bubble Sort** | $O(n)$ | $\Theta(n^2)$ | $O(n^2)$ | $O(1)$ |
+| **Bubble Sort** | $O(n)$ | $O(n^2)$ | $O(n^2)$ | $O(1)$ |
 | **Merge Sort** | $O(n \log n)$ | $O(n \log n)$ | $O(n \log n)$ | $O(n)$ |
 | **Quick Sort** | $O(n \log n)$ | $O(n \log n)$ | $O(n^2)$ | $O(\log n)$ |
 | **Heap Sort** | $O(n \log n)$ | $O(n \log n)$ | $O(n \log n)$ | $O(1)$ |
